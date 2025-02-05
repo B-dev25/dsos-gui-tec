@@ -7,6 +7,8 @@ Version 1.0
 ----------------------------------------------------------------------------
 """
 
+#prueba de git numero 1
+
 import sys
 from PyQt6 import uic, QtCore, QtWidgets
 import pyqtgraph as pg
